@@ -1,4 +1,4 @@
-# FreeCodeAcademy - Foundational C#
+# FreeCodeCamp - Foundational C#
 
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
