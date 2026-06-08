@@ -1,5 +1,7 @@
 # FreeCodeAcademy - Foundational C#
 
+[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
+
 Este repositório contém anotações, exercícios e materiais de estudo relacionados ao curso **Foundational C#**, focado nos conceitos fundamentais da linguagem C# e da plataforma .NET.
 
 ## 📚 Conteúdos abordados
